@@ -1,2 +1,1 @@
-# Todo_Fastapi
-Todo Add with frontend React and Backend FastApi
+# Todo Web Application with FastAPI+React(Chakra UI)+SQLite
