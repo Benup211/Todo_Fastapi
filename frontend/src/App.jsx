@@ -1,12 +1,10 @@
-import { Flex,Text } from '@chakra-ui/react'
+import { Heading} from '@chakra-ui/react'
+import AddTodo from './component/addtodo'
 function App() {
   return (
     <>
-    <Flex>
-      <Flex>
-        <Text>hello</Text>
-      </Flex>
-    </Flex>
+    <Heading>Todo Application</Heading>
+    <AddTodo/>
     </>
   )
 }
